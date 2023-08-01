@@ -1,4 +1,4 @@
-import '@/styles/reset.scss'
+import '@/styles/index.scss'
 import Loyaut from '@/loyaut/loyaut'
 import type { AppProps } from 'next/app'
 
